@@ -1,0 +1,18 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.navbar-default{
+  background: #fff;
+  border: 0;
+}
+.navbar-brand{
+  color: #000!important;
+  font-size: 1.3em;
+}
+.showcase-left{
+  margin-top:50px;
+}
+section{
+  padding-top: 70px;
+  height: 1000px;
+}
